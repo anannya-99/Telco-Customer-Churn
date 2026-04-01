@@ -9,7 +9,7 @@ This project focuses on analyzing customer attrition (churn) for a telecommunica
 * Track Revenue Loss and identify "High-Value" customers at risk.
 
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 
 ###  Page 1: Executive Summary (The "What")
 Provides a high-level view of the business health.
